@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "test": "jest --coverage --colors --silent"
+     "test": "jest --coverage --colors --silent"
   },
   "keywords": [],
   "author": "",
