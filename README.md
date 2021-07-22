@@ -2,12 +2,13 @@
 🚨 This is a test-driven kata, so please write a unit test before each iteration of the code that solves the kata.
 We follow the red-green-blue pattern of TDD.
 
-> Instructions to convert an English word to pig Latin:
+> The challenge is to write a function that converts a word into Pig Latin.
 
 Vowels = a, e, i, o, u
 
 Consonants = [all other letters]
 
+> Examples of a conversion from a normal word to Pig Latin:
 - If a word begins with a consonant, it is moved to the back of the word with an added 'ay'. Example:
   Input: `'dough'` Output: `'oughday'`
 - Consonant clusters are similarly moved to the back of the word. Example:
