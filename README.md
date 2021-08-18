@@ -22,3 +22,4 @@ Consonants = [all other letters]
 
 
 > Again, the goal of this kata is to solve it in a test-driven manner. 🔴🟢🔵
+> Finally, feel free to use Google and copy/paste
